@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">Eu sou Henrique<br><br>- 🔭 Eu pretendo trabalhar na area cibersegurança.<br>- 📚 Eu estou aprendendo bastante na area Back-End e futuramente me aprofundar na area cibernetica.<br>- ⚡ Em meu tempo Livre eu jogo e saiu para praticar esportes.</p>
+<p align="left">Eu sou Henrique<br><br>- 🔭 Eu pretendo trabalhar na area Web sendo um Full Stack.<br>- 📚 Eu estou aprendendo bastante na area Back-End e futuramente me aprofundar na area cibernetica.<br>- ⚡ Em meu tempo Livre eu jogo e saiu para praticar esportes.</p>
 
 ###
 
